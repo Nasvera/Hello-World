@@ -1,0 +1,9 @@
+public class myFirstJavaProgram{
+/*This Code will only print out "hello world"
+  * And This is my First Java Programm
+*/
+
+public static void main(string[]args){
+system.outprintin("Hello World")// Printout "Hello World"
+}
+ }
